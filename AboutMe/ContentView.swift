@@ -13,7 +13,7 @@ struct ContentView: View {
             Color(.systemGray5)
                 .ignoresSafeArea()
             VStack {
-                Text("About Me: Shelly")
+                Text("About Me: Shelly!!")
                     .font(.title)
                     .multilineTextAlignment(.center)
                 HStack {
